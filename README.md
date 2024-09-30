@@ -1,1 +1,1 @@
-# jockey
+# Migthy Ducks Hockey League
